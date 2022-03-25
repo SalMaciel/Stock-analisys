@@ -8,13 +8,13 @@
 
 - After code was refactored we notice a huge improvemnt on run time from 34 seconds down to 4 seconds (I am using an old laptop).
 
-![before refactoring](/resourses/runtimebeforerefactoring.png)
-![after refactoring](/resources/Refactored.png)
+![before refactoring](/Resources/runtimebeforerefactoring.png)
+![after refactoring](/Resources/Refactored.png)
 
 - Results are still accurate
 
-![Analisys for 2017](/resources/VBA_Challenge_2017.png)
-![Analisys for 2018](/resources/VBA_Challenge_2018.png)
+![Analisys for 2017](/Resources/VBA_Challenge_2017.png)
+![Analisys for 2018](/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
